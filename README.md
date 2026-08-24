@@ -29,7 +29,6 @@ B.Tech Computer Science student at VIT Bhopal University (CGPA: 8.82). Strong fo
 ### 💻 C++ CLI Resume Builder & Markdown Exporter
 *Command-line application leveraging C++ file streams and multithreading[cite: 1].*
 * Built custom `std::ofstream` serializing system for Markdown export and robust input validation state resets (`std::cin`).
-
 ---
 
 ## 🏆 Certifications & Achievements
@@ -38,11 +37,12 @@ B.Tech Computer Science student at VIT Bhopal University (CGPA: 8.82). Strong fo
 * **Oracle Certified Professional:** Cloud Infrastructure 2025 Generative AI Professional.
 * **IIT Kharagpur (NPTEL):** Marketing Analytics (Elite + Gold - 90%) | Cloud Computing (Elite - 70%).
 * **HackerRank:** Verified Professional Skills in Problem Solving & Python[cite: 1].
-
 ---
 
 ## 📫 Connect With Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:n5nagendrasingh515@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagendra-singh-827002371/)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=flat&logo=codeforces&logoColor=white)](https://codolio.com/profile/N_ayush04)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/N_ayush04/)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=flat&logo=codeforces&logoColor=white)](https://codolio.com/profile/N_ayush04)
+
