@@ -26,17 +26,10 @@ B.Tech Computer Science student at VIT Bhopal University (CGPA: 8.82). Strong fo
 * Optimized API latency by 40% using `@st.cache_data` caching across 1,000+ yfinance requests[cite: 1].
 * Decomposed weekly/yearly seasonality using Meta's Prophet algorithm for precision forecasting.
 
-### 💻 C++ CLI Resume Builder & Markdown Exporter
-*Command-line application leveraging C++ file streams and multithreading[cite: 1].*
-* Built custom `std::ofstream` serializing system for Markdown export and robust input validation state resets (`std::cin`).
----
-
 ## 🏆 Certifications & Achievements
 
-* **LeetCode 100-Day Badge (2026):** Continuous 100-day daily problem-solving streak (200+ problems solved).
 * **Oracle Certified Professional:** Cloud Infrastructure 2025 Generative AI Professional.
 * **IIT Kharagpur (NPTEL):** Marketing Analytics (Elite + Gold - 90%) | Cloud Computing (Elite - 70%).
-* **HackerRank:** Verified Professional Skills in Problem Solving & Python[cite: 1].
 ---
 
 ## 📫 Connect With Me
